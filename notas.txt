@@ -13,3 +13,7 @@ Todas as dependencias do typescript devem ser instalada em ambiente de desenvolv
 Podemos executar  a  nossa aplicação rodando um node (nome da pasta/nome do arquivoPrincipal.js)
 
 yarn ts-node-dev -D -> vai nos ajudar durante o ambiente de desenvolvimento.
+
+Ferraments necessarias
+
+.Eslint
