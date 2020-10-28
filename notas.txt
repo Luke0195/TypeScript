@@ -17,7 +17,8 @@ yarn ts-node-dev -D -> vai nos ajudar durante o ambiente de desenvolvimento.
 Ferraments necessarias
 
 .Eslint
+.EditorConfig
+.Prettier
 
-
-Importando Arquivos
+.Importando Arquivos
 yarn add -D eslint-import-resolver-typescript -> nos ajuda com a importação de arquivos utilizando ts
