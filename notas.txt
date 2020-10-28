@@ -17,3 +17,6 @@ yarn ts-node-dev -D -> vai nos ajudar durante o ambiente de desenvolvimento.
 Ferraments necessarias
 
 .Eslint
+
+
+Importando Arquivos
