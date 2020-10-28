@@ -20,3 +20,4 @@ Ferraments necessarias
 
 
 Importando Arquivos
+yarn add -D eslint-import-resolver-typescript -> nos ajuda com a importação de arquivos utilizando ts
