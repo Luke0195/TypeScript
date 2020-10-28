@@ -1,1 +1,15 @@
 yarn add typescript -D
+
+yarn tsc --init -> vai gerar um arquivo tscconfig(nesse arquivo terão todas as configurações do typescript)
+
+Nas configurações do typescript precisamos setar as configurações de rootDir  e OutDir.
+rootDir => Arquivo de desenvolvimento do typescript.
+outDir => Versão final do nosso código typescript copilado.
+
+yarn tsc -> compila o nosso código ts para js
+
+Todas as dependencias do typescript devem ser instalada em ambiente de desenvolvimento.
+
+Podemos executar  a  nossa aplicação rodando um node (nome da pasta/nome do arquivoPrincipal.js)
+
+yarn ts-node-dev -D -> vai nos ajudar durante o ambiente de desenvolvimento.
